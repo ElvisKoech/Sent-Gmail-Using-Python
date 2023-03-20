@@ -1,2 +1,2 @@
-password = "yeqzlvlwsiovpkqe"
+password = "app password"
 
